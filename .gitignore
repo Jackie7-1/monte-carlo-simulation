@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# CLion / JetBrains
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+
+# C build files
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# course/report/private files
+*.pdf
+*.doc
+*.docx
+*.pptx
+report*
+assignment*
+instructions*
